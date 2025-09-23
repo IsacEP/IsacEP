@@ -1,21 +1,21 @@
 # 💫 About Me:
-🏢 I work at Axis Communications @ Lund<br><br>
-👨‍💻 I'm currently working on<br><br>
+🏢 I work at Axis Communications @ Lund<br>
+👨‍💻 I'm currently working on<br>
 - Developing an audio annotation tool with React, TypeScript & Django  
 - Building a data visualizer with Python & modern frontend stacks  
 - Exploring fullstack projects that mix clean UI/UX with powerful backends  
 
-📚 I'm currently learning<br><br>
+📚 I'm currently learning<br>
 - Java & TypeScript deep dive patterns  
 - AI with Python  
 - Fullstack development practices  
 
-💬 Ask me about<br><br>
+💬 Ask me about<br>
 - Fullstack development  
 - React & TypeScript  
 - Anything tech — I love discussing ideas 🚀  
 
-🎉 Fun fact<br><br>
+🎉 Fun fact<br>
 - I'm a gamer 🎮 Favorite games: League of Legends & World of Warcraft  
 - My favorite programming language is Java ☕  
 
